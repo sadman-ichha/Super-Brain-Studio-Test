@@ -5,4 +5,5 @@ class AppColors {
   static const bColor = Color(0xFF86C749);
   static const wColor = Color(0xFFFFFFFF);
   static const btColor = Color(0xFF2D7614);
+  static const bnColor = Color(0xFF97ADB6);
 }

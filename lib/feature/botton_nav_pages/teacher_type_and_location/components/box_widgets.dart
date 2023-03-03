@@ -9,7 +9,7 @@ boxWidget(String text) {
         height: 55.0.h,
         width: 55.0.w,
         decoration: BoxDecoration(
-          color: AppColors.bColor,
+          color: AppColors.bColor.withOpacity(0.7),
           borderRadius: BorderRadius.circular(12.r),
         ),
       ),
